@@ -3,5 +3,5 @@ body, .appMount__51fd7, .app__160d8, .wrapper_ef3116, .bg__960e4, /* App Backgro
 .layer__960e4, .sidebarRegionScroller__23e6b, .standardSidebarView__23e6b /* Settings */ 
 { background: transparent !important; }
 
-.panels_c48ade /* User Info Panel */
-{ border-top-left-radius: 10px; }
+.panels_c48ade, .container__37e49 /* User Area */
+{ border-top-left-radius: 10px !important; }
