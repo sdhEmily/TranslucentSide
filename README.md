@@ -5,22 +5,15 @@
 
 ## How to use
 
-### Desktop App
+* BetterDiscord/Vencord users should use [TranslucentSide.theme.css](https://raw.githubusercontent.com/sdhEmily/TranslucentSide/main/TranslucentSide.theme.css) file and either
+  * Place it in the BetterDiscord/Vencord themes folder
+  * Copy the text and paste it in the quickCSS text field
 
-* BetterDiscord and Vencord users can grab the [TranslucentSide.theme.css](https://raw.githubusercontent.com/sdhEmily/TranslucentSide/main/TranslucentSide.theme.css) file and either
-  * Place the file in the BetterDiscord or Vencord themes folder
-  * Copy the text in the file, and paste it in the quick CSS text field
+## Enabling Translucency
 
-## Translucency
+### If you use Windows [Mica for Everyone](https://github.com/MicaForEveryone/MicaForEveryone) is known to play decently, but it can have issues.
 
-<details>
-<summary>Information on enabling translucency</summary>
-
-### If you use Windows [Mica for Everyone](https://github.com/MicaForEveryone/MicaForEveryone) is known to play decently, but can be very spotty.
-
-This theme is made for translucency. 
-
-### You can achieve the same look on Vencord/macOS by doing as follows:
+### You can achieve the same look on Vencord with macOS by doing as follows:
 
 1. Go to Settings > Vencord, then toggle "Enable Translucent Window".
 2. Then scroll down and set "Window vibrancy style" to "HUD"
