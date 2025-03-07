@@ -4,10 +4,9 @@
 # ![image](https://github.com/user-attachments/assets/a1096d13-a83b-454b-b1e9-e160a3b14b46)
 
 ## How to use
-
-* BetterDiscord/Vencord users should use [TranslucentSide.theme.css](https://raw.githubusercontent.com/sdhEmily/TranslucentSide/main/TranslucentSide.theme.css) file and either
-  * Place it in the BetterDiscord/Vencord themes folder
-  * Copy the text and paste it in the quickCSS text field
+* Paste `https://raw.githubusercontent.com/sdhEmily/TranslucentSide/refs/heads/main/TranslucentSide.theme.css` into the the Vencord themes page
+* Place [TranslucentSide.theme.css](https://raw.githubusercontent.com/sdhEmily/TranslucentSide/main/TranslucentSide.theme.css) into the themes folder
+* Copy the text from [TranslucentSide.theme.css](https://raw.githubusercontent.com/sdhEmily/TranslucentSide/main/TranslucentSide.theme.css) and paste it in the quickCSS text field
 
 ## Enabling Translucency
 
