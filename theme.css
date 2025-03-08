@@ -1,7 +1,13 @@
 body, .appMount__51fd7, .app__160d8, .wrapper_ef3116, .bg__960e4, /* App Background */
-.footer__214dc, .sidebar_c48ade, .privateChannels__35e86, .container__2637a, .scroller__99e7c, .custom-theme-background .itemsContainer_ef3116, /* Sidebar */
-.layer__960e4, .sidebarRegionScroller__23e6b, .standardSidebarView__23e6b /* Settings */ 
+.footer__214dc, .sidebar_c48ade, .privateChannels__35e86, .container__2637a, .scroller__99e7c, .custom-theme-background .itemsContainer_ef3116, .panels_c48ade,o /* Sidebar */
+.layer__960e4, .sidebarRegionScroller__23e6b, .standardSidebarView__23e6b, .layer__960e4  /* Settings */ 
 { background: transparent !important; }
 
-.panels_c48ade, .container__37e49 /* User Area */
+.container__37e49 /* User Area */
 { border-top-left-radius: 10px !important; }
+
+
+.container_e131a9 /* VC Panel */
+{ border-bottom: unset;
+  border-bottom-left-radius: 10px !important;
+  border-top-left-radius: 10px !important; } 
