@@ -15,6 +15,6 @@
 ### You can achieve the same look on Vencord with macOS by doing as follows:
 
 1. Go to Settings > Vencord, then toggle "Enable Translucent Window".
-2. Then scroll down and set "Window vibrancy style" to "HUD"
+2. Then scroll down and set "Window vibrancy style" to "Sidebar"
 
 <img width="934" alt="image" src="https://github.com/user-attachments/assets/edea4788-112a-46fa-ac9b-06d1cce30cc7" />
