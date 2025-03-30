@@ -6,6 +6,9 @@ body, .appMount__51fd7, .app__160d8, .wrapper_ef3116, .bg__960e4, /* App Backgro
 .container__37e49 /* User Area */
 { border-top-left-radius: 10px !important; }
 
+.visual-refresh .panels_c48ade /* User Area - Refresh */ {
+  background: var(--bg-overlay-floating,var(--background-base-low)) !important;
+}
 
 .container_e131a9 /* VC Panel */
 { border-bottom: unset;
