@@ -19,3 +19,6 @@ body, .appMount__51fd7, .app__160d8, .wrapper_ef3116, .bg__960e4, /* App Backgro
 
 .noChannel__01d5c /* No Channels Page */
 { background: var(--bg-overlay-chat, var(--background-primary)); }
+
+.app_a3002d /* Random semicolon in the corner???? wtf discord */
+{ color: transparent !important; }
