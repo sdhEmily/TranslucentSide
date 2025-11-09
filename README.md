@@ -1,7 +1,9 @@
 <h1 align="center">TranslucentSide</h1>
 <p align="center">Simple Yet Beautiful.</p>
 
-# ![image](https://github.com/user-attachments/assets/a1096d13-a83b-454b-b1e9-e160a3b14b46)
+# ![Screenshot of the theme.](https://github.com/user-attachments/assets/03da4e4b-6300-4fa4-a85c-62e2fc863050)
+
+
 
 ## How to use
 * Paste `https://raw.githubusercontent.com/sdhEmily/TranslucentSide/refs/heads/main/TranslucentSide.theme.css` into the the Vencord themes page
@@ -17,4 +19,4 @@
 1. Go to Settings > Vencord, then toggle "Enable Translucent Window".
 2. Then scroll down and set "Window vibrancy style" to "Sidebar"
 
-<img width="934" alt="image" src="https://github.com/user-attachments/assets/edea4788-112a-46fa-ac9b-06d1cce30cc7" />
+<img width="934" alt="Screenshot showing an example of the Vencord settings." src="https://github.com/user-attachments/assets/edea4788-112a-46fa-ac9b-06d1cce30cc7" />
