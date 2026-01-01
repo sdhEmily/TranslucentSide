@@ -1,7 +1,12 @@
-body, .appMount__51fd7, .app__160d8, .wrapper_ef3116, .bg__960e4, /* App Root */
-.container__2637a, .privateChannels_e6b769, .scroller__99e7c, .custom-theme-background .itemsContainer_ef3116, .panels_c48ade, /* Sidebar */
-.layer__960e4, .sidebarRegionScroller__23e6b, .standardSidebarView__23e6b  /* Settings */ 
+/* App Root */
+body, #app-mount, [class$="-app"], .theme-dark[class*="-bg"], .theme-light[class*="-bg"] 
+/* Sidebar */
+.theme-light[class*="-guilds"], .theme-dark[class*="-guilds"], [class$="-itemsContainer"],
+/* Sidebar DMs List */
+[class$="-privateChannels"], [aria-orientation="vertical"][class*="-scroller"],
+/* -Sidebar Channels List */
+[class$="-sidebarListRounded"]>[class*="-container"]
 { background: transparent !important; }
-
-.noChannel__01d5c /* No Channels Page */
+/* No Channels Page */
+[class$="-noChannel"] 
 { background: var(--background-gradient-chat,var(--background-base-lower)); }
