@@ -3,7 +3,7 @@ body, #app-mount, [class$="-app"], .theme-dark[class*="-bg"], .theme-light[class
 /* Sidebar */
 .theme-light[class*="-guilds"], .theme-dark[class*="-guilds"], [class$="-itemsContainer"],
 /* Sidebar DMs List */
-[class$="-privateChannels"], [aria-orientation="vertical"][class*="-scroller"],
+[class$="-privateChannels"], [data-list-id^="private-channels-"][class*="-scroller"],
 /* -Sidebar Channels List */
 [class$="-sidebarListRounded"]>[class*="-container"]
 { background: transparent !important; }
