@@ -5,7 +5,9 @@ body, #app-mount, [class$="-app"], .theme-dark[class*="-bg"], .theme-light[class
 /* Sidebar DMs List */
 [class$="-privateChannels"], [data-list-id^="private-channels-"][class*="-scroller"],
 /* -Sidebar Channels List */
-[class$="-sidebarListRounded"]>[class*="-container"]
+[class$="-sidebarListRounded"]>[class*="-container"],
+/* Legacy Settings Page */
+[data-layer="USER_SETTINGS"], [class$="-standardSidebarView"], [class$="-fade"][class*="-sidebarRegionScroller"]
 { background: transparent !important; }
 /* No Channels Page */
 [class$="-noChannel"] 
