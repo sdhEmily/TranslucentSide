@@ -1,14 +1,10 @@
 /* App Root */
-body, #app-mount, [class$="-app"], .theme-dark[class*="-bg"], .theme-light[class*="-bg"] 
-/* Sidebar */
-.theme-light[class*="-guilds"], .theme-dark[class*="-guilds"], [class$="-itemsContainer"],
-/* Sidebar DMs List */
-[class$="-privateChannels"], [data-list-id^="private-channels-"][class*="-scroller"],
-/* -Sidebar Channels List */
-[class$="-sidebarListRounded"]>[class*="-container"],
-/* Legacy Settings Page */
-[data-layer="USER_SETTINGS"], [class$="-standardSidebarView"], [class$="-fade"][class*="-sidebarRegionScroller"]
+body, #app-mount, .app__160d8, .bg__960e4, 
+/* Sidebar (Server List)*/
+.wrapper_ef3116, .itemsContainer_ef3116, 
+/* Sidebar (Channels/DMs List)*/
+.privateChannels_e6b769, .container__2637a, .scroller__99e7c 
 { background: transparent !important; }
 /* No Channels Page */
-[class$="-noChannel"] 
-{ background: var(--background-gradient-chat,var(--background-base-lower)); }
+.noChannel__01d5c 
+{ background: var(--background-gradient-chat,var(--background-base-lowest)); }
