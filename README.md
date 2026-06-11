@@ -6,7 +6,7 @@
 
 
 
-### Found a bug? Open an [Issue](https://github.com/sdhEmily/TranslucentSide/issues) or contact me on Discord (bootx64.efi)
+### Found a bug? Please open an [Issue](https://github.com/sdhEmily/TranslucentSide/issues)!
 
 ## How to use
 * Paste `https://raw.githubusercontent.com/sdhEmily/TranslucentSide/refs/heads/main/TranslucentSide.theme.css` into the the Vencord themes page
