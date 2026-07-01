@@ -1,7 +1,7 @@
 /* App Root */
 body, #app-mount, .app__160d8, .bg__960e4, 
 /* Sidebar (Server List)*/
-.wrapper_ef3116, .itemsContainer_ef3116, .tree_ef3116
+.wrapper_ef3116, .itemsContainer_ef3116, .tree_ef3116,
 /* Sidebar (Channels/DMs List)*/
 .privateChannels_e6b769, .container__2637a, .scroller__99e7c 
 { background: transparent !important; }
