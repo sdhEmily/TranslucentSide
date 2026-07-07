@@ -3,7 +3,7 @@ body, #app-mount, .app__160d8, .bg__960e4,
 /* Sidebar (Server List)*/
 .wrapper_ef3116, .itemsContainer_ef3116, .tree_ef3116,
 /* Sidebar (Channels/DMs List)*/
-.privateChannels_e6b769, .container__2637a, .scroller__99e7c 
+.privateChannels_e6b769, .container__2637a, .scroller__99e7c, .sidebar__5e434:after
 { background: transparent !important; }
 /* No Channels Page */
 .noChannel__01d5c 
